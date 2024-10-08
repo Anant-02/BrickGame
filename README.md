@@ -8,3 +8,6 @@ Basic Game Mechanics: The objective is to break the bricks by bouncing the ball 
 
 ![startImage](public/image1.png)
 ![Image](public/image2.png)
+
+# Link
+[Play it](https://anant-02.github.io/BrickGame/)
